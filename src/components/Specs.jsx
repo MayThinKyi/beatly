@@ -13,7 +13,7 @@ const Specs = () => {
 
     ]
   return (
-    <div className='px-5 sm:px-0'>
+    <div className='px-5 sm:px-0 animate__animated animate__backInLeft'>
       <Heading title={'Specs'} />
       <div className='flex flex-wrap sm:flex-nowrap justify-center gap-10'>
             <div className='order-2 sm:order-1 '>
